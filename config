@@ -1,0 +1,15 @@
+Host proxmox1
+    HostName 192.168.125.211
+    User kasutaja
+    IdentitiesOnly yes
+
+Host proxmox2
+    HostName 192.168.125.132
+    User kasutaja
+    IdentitiesOnly yes
+
+
+Host proxmox3
+    HostName 192.168.125.223
+    User kasutaja
+    IdentitiesOnly yes
